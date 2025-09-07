@@ -1,0 +1,2 @@
+Developed and deployed a deep learning model to predict customer churn for a banking institution, achieving an accuracy of over 85%. Leveraged Python, TensorFlow, and Keras to build an Artificial Neural Network (ANN) that identifies customers at high risk of leaving. The project involved end-to-end data preprocessing, feature engineering, model training, and performance evaluation to provide actionable insights for customer retention strategies.
+
